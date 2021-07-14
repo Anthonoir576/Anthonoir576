@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&theme=onedark)
 
 
 
