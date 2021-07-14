@@ -1,4 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576)
+
 
 
 <!--
