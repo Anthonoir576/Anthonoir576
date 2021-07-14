@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&theme=synthwave&show_icons=true)
 
 
 
