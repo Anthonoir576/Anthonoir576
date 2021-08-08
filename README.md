@@ -2,7 +2,7 @@
 
 ### - Développeur FRONT-END -
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true&card_width=100%)
 
 
 
