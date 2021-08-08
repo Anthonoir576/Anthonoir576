@@ -2,10 +2,10 @@
 
 ### <h1 align="right"> - Développeur FRONT-END - </h1>
 
-<p align="center"> <a href="https://github.com/anthonoir576/github-readme-stats">
+<p align="center"> <a align="left" href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
 </a>
-<a href="https://github.com/anthonoir576/github-readme-stats">
+<a align="right" href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576&layout=compact" />
 </a> </p>
 
