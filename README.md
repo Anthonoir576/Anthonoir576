@@ -1,13 +1,13 @@
 # FALVO Anthony 
 
 ### <h1 align="right"> - Développeur FRONT-END - </h1>
-
- <a align="left" href="https://github.com/anthonoir576/github-readme-stats">
+<p align="center">
+ <a href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
 </a>
-<a align="right" href="https://github.com/anthonoir576/github-readme-stats">
+<a href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576&layout=compact" />
-</a> 
+</a></p> 
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" alt="anthonoir576" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576" alt="anthonoir576" /> -->
