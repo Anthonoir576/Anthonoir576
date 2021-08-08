@@ -1,8 +1,7 @@
 # FALVO Anthony 
+<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/banner.JPG?raw=true" />
 
 ### <h1 align="right"> - Développeur FRONT-END - </h1>
-
-<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/banner.JPG?raw=true" />
 
 <p align="center">
  <a href="https://github.com/anthonoir576/github-readme-stats">
