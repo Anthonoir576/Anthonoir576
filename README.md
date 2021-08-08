@@ -2,13 +2,13 @@
 
 ### - Développeur FRONT-END -
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true&card_width=1000px)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/anthonoir576/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anthonoir576/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
 </a>
 
 
