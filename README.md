@@ -1,6 +1,6 @@
 # FALVO Anthony 
 
-<p align="right"> - Développeur FRONT-END - </p>
+### <p align="right"> - Développeur FRONT-END - </p>
 
 <p align="center"> <a href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
