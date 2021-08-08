@@ -10,7 +10,7 @@
 </a>-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" alt="anthonoir576" />
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576)](https://github.com/anthonoir576/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576" alt="anthonoir576" />
 
 
 
