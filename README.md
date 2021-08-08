@@ -1,9 +1,9 @@
 <img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/banner.JPG?raw=true" />
-<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/main.JPG?raw=true" />
+<!--<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/main.JPG?raw=true" />
 <img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/resume.JPG?raw=true" />
 <img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/work.JPG?raw=true" />
 <img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/whyNot.JPG?raw=true" />
-<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/footer.JPG?raw=true" />
+<img src="https://github.com/Anthonoir576/Anthonoir576/blob/main/img/footer.JPG?raw=true" />-->
 
 <p align="center">
  <a href="https://github.com/anthonoir576/github-readme-stats">
