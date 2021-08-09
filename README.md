@@ -7,13 +7,13 @@
 
 ![anthonoir576 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anthonoir576&theme=react-dark&custom_title=FALVO%20ENTERPRISE%20'%20S)
 
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" />
 </a>
 <a href="https://github.com/anthonoir576/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576&layout=compact" />
-</a></p> 
+</a></p> -->
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anthonoir576&show_icons=true" alt="anthonoir576" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonoir576" alt="anthonoir576" /> -->
